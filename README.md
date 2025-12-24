@@ -1,5 +1,5 @@
 # Synthesizer-V-Studio-Ukrainian-Translation
-Українська для Synthesizer V Studio
+Українська для Synthesizer V Studio. Перекладено більшість вмісту. Проблема є в тому, що у програми немає нормального зразка, на основі якого можна зробити переклад, а усі інші локалізації по-різному застарілі.
 
 ## Встановлення:
 * Перемістити файл **uk-ua.txt** до теки `Документи/Dreamtonics/Synthesizer V Studio/translations`
