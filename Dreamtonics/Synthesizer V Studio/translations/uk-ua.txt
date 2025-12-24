@@ -196,8 +196,8 @@ language: Українська
 
 "Note Properties" = "Властивості ноти"
   "Navigation" = "Навігація"
-    "PREV" = "ПОПЕРЕД"
-    "NEXT" = "НАСТУПН"
+    "PREV" = "НАЗАД"
+    "NEXT" = "ДАЛІ"
   "(multiple values)" = "(кілька значень)"
   "Pitch Transition" = "Перехід висоти тону"
     "Offset" = "Зсув"
@@ -712,4 +712,5 @@ Load Script" = "Завантаження скрипта"
 "Kyomachi Seika" = "Кьомачі Сейка"
 "Kyomachi Seika AI" = "Кьомачі Сейка AI"
 "ANRI" = "АНРІ"
+
 "ANRI (Lite)" = "АНРІ (Lite)"
